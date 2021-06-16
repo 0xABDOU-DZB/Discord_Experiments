@@ -51,7 +51,7 @@ SOFTWARE.
 </code></pre>
       </td>
       
-# Code_DZB JavaScript
+# Code_DZB<img src="https://github.com/ABD0U-DZB/ABD0U-DZB/blob/main/803793060932223006.gif?raw=true" width="30px"> JavaScript
 
 ```js
 (() => {
