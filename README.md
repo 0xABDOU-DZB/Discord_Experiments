@@ -1,7 +1,7 @@
 # DiscordExperiments
 Enable Discord Experiments
 
-<h2><a href="https://github.com/HappyRogelio7/DiscordExperiments" rel="nofollow">Main Repositori</a></h2>
+<h2><a href="https://github.com/ABD0U-DZB/Discord_Experiments" rel="nofollow">Main Repositori</a></h2>
 
 <h2><a href="https://gist.github.com/MPThLee/3ccb554b9d882abc6313330e38e5dfaa" rel="nofollow">Original Repositori</a></h2>
 
@@ -51,7 +51,7 @@ SOFTWARE.
 </code></pre>
       </td>
       
-# Code JavaScript
+# Code_DZB JavaScript
 
 ```js
 (() => {
